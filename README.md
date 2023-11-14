@@ -8,7 +8,7 @@ To get started with this project, follow these steps:
 
 1. The backend is built on django while the frontend is built on React native
 
-2. To run the backend api navigate to the backend folder and run pip install -r requirements.txt
+2. To run the backend api navigate to the root folder and run pip install -r requirements.txt then to backend and use the command python3 manage.py runserver
 3. No need to run migrations as they are already ran for the db provided. The credentials are as follows
 
 ## username:admin and password: admin
